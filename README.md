@@ -19,10 +19,10 @@ micro:WetherはRaspberryPiとmicro:bitでBluetooth通信を行い、micro:bitに
 			<li>
 				Node.js
 				<ul>
-					<li>
+					<li>bbc-microbit</li>
+					<li>http<li>
 				</ul>
 			</li>
-
 		</ul>
 	</li>
 	<li>micro:bit</li>
