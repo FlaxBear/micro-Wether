@@ -12,11 +12,16 @@ micro:WetherはRaspberryPiとmicro:bitでBluetooth通信を行い、micro:bitに
 
 
 ## Requirement
-<h3>Machine</h3>
 <ul>
-	<li>RaspberryPi</li>
+	<li>
+		RaspberryPi3 Model B, or something similar to that
+		<ul>
+			<li>Node.js<li>
+		</ul>
+	</li>
 	<li>micro:bit</li>
 </ul>
+
 
 ## Usage
 
