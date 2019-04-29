@@ -7,7 +7,7 @@ Overview
 
 ## Demo
 
-## VS. 
+## VS.
 
 ## Requirement
 
@@ -23,4 +23,4 @@ Overview
 
 ## Author
 
-[tcnksm](https://github.com/tcnksm)
+[FlaxBear](https://github.com/FlaxBear)
