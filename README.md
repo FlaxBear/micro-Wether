@@ -37,12 +37,12 @@ How to connect(English):<br>
 &nbsp;3. The connection will be made automatically, and if successful, mac address etc. will be displayed<br>
 <br>
 Usage for micro:bit:<br>
-<br>
 &nbsp;A Button:<br>
 &nbsp;&nbsp;Display today's weather for 30 seconds<br>
 &nbsp;B Button:<br>
 &nbsp;&nbsp;Display the tomorrow's weather for 30 seconds<br>
 <br>
+***
 <br>
 接続方法(日本語):<br>
 &nbsp;1. このプログラムをラズペリーパイで起動してください.<br>
@@ -52,7 +52,6 @@ Usage for micro:bit:<br>
 &nbsp;3. 接続は自動で行われます.接続に成功すると,maxアドレスなどが表示されます.<br>
 <br>
 使用方法:<br>
-<br>
 &nbsp;Aボタン:<br>
 &nbsp;&nbsp;今日の天気をディスプレイに30秒間表示します.<br>
 &nbsp;Bボタン:<br>
