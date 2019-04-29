@@ -3,8 +3,8 @@ const BBCMicrobit = require('bbc-microbit');
 const http = require('http');
 
 // Setting OpenWeaterMap API data
-const appid = "cf005b29c4fa86488c5acba2062e4626";
-const id = "1853909";
+const appid = "";
+const id = "";
 const today_url = "http://api.openweathermap.org/data/2.5/weather?id=" + id + "&units=metric&appid=" + appid;
 const tomorrow_url = "http://api.openweathermap.org/data/2.5/forecast?id=" + id +"&units=metric&cnt=2&appid=" + appid;
 
